@@ -1,4 +1,4 @@
-name: emoji
+name: emoj-ev
 version: '0.3.0'
 summary: emoji
 description: Find relevant emoji from text on the command line
